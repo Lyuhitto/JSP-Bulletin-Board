@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<script>
-		location.href = 'login.jsp';
-	</script>
+Hello world!
 </body>
 </html>
